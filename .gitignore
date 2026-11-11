@@ -1,0 +1,29 @@
+# Arquivos gerados e configuracoes locais
+**/bin/
+**/obj/
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/.vs/
+**/.idea/
+**/node_modules/
+**/.pub-cache/
+**/local.properties
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+*.user
+*.suo
+*.log
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.jks
+*.keystore
+*.backup
+
+# Exportacoes locais com cadastros, sessoes e pedidos
+PIMBURGUER-web-api/PIMBURGUER_API_SIMPLES/BANCO/Backup/
+PIM_Burguer_Bancos/PARA_RECRIAR_NO_NOTEBOOK/
